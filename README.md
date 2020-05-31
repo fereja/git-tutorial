@@ -10,7 +10,7 @@
 
 # Git repository
   
-  Copy git repository from github.com or type it the link, after git clone command . it creates a folder name in local disk with           repository name. 
+  Copy git repository from github.com or type the link, after git clone command . it creates a folder name in local disk with             repository name. 
   
   git clone https://github.com/fereja/git-tutorial.git
   
