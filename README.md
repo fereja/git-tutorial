@@ -22,8 +22,8 @@
 
   To add use this three command the dot (.) stand for all files, or specify file name.
   
-  git add .
-  git commit -m 'comment here'
+  git add . <br/>
+  git commit -m 'comment here' </br>
   git submit
 
 
