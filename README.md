@@ -8,7 +8,7 @@
   git config --global user.name "FirstName LastName"
   
 
-# Copy from git
+# Git repository
   
   Copy git repository from github.com or type it the link, after git clone command . it creates a folder name in local disk with           repository name. 
   
