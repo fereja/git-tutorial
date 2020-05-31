@@ -1,5 +1,7 @@
 
 # Set up git Authentication
+  
+  Create github account on github.com then configure in terminal or command window. 
 
   git config --global user.email "name@email.com"
 
