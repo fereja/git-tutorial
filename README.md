@@ -25,7 +25,9 @@
   To add use this three command the dot (.) stand for all files, or specify file name.
   
   git add . (all changed file) or git add my*.txt (for file name star with my)
+  
   git commit -m 'comment here'
+  
   git push
 
 
