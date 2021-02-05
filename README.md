@@ -29,3 +29,6 @@
   git push
 
 
+# pull
+to pull updated file from github
+git pull
