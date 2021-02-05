@@ -37,7 +37,13 @@ to pull updated file from github
 git pull
 
 
-# Restore ?
+# Restore 
+exclued the file when adding 
+
+syntax git restore path/filename
+
+example git restore logfile.log
+
 
 # Mereg ?
 
