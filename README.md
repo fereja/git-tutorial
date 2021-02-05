@@ -26,6 +26,6 @@
   
   git add . <br/>
   git commit -m 'comment here' </br>
-  git submit
+  git push
 
 
