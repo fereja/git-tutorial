@@ -36,6 +36,21 @@ to pull updated file from github
 
 git pull
 
+# Branch
+git branch <branchname>
+
+git checkout <branchname>
+
+add here every thing here
+
+change to main
+git checkout main
+git merge // to mearg branch to master
+git push // to push to master
+
+#
+
+
 
 # Restore 
 exclued the file when adding 
