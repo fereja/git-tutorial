@@ -53,11 +53,10 @@ git push // to push to master
 
 
 # Restore 
-exclued the file when adding 
+Restore previous  the file when  
 
-syntax git restore path/filename
+syntax: git restore path/filename
 
-example git restore logfile.log
 
 
 # Mereg ?
