@@ -44,7 +44,7 @@ git checkout <branchname>
 
 add here every thing here
 
-change to main
+# change to main
 git checkout main
 git merge // to mearg branch to master
 git push // to push to master
