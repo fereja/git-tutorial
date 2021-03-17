@@ -57,9 +57,11 @@ git push // to push to master
 
 
 # Restore 
-Restore previous  the file when  
 
-syntax: git restore path/filename
+cancels add/sataged file 
+
+syntax: git restore path/filename or
+        git restore --staged .
 
 
 
